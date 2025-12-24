@@ -11,3 +11,9 @@ I focus on writing clean, maintainable code and building real-world applications
 - **Database:** MongoDB
 - **Programming:** C, C++
 - **Tools:** Git, GitHub, Postman
+
+---
+
+### Contact
+- Email: rk18012003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rohit-kumar-835346260
