@@ -1,42 +1,52 @@
-<h2 align="center">Rohit Kumar</h2>
+<h2 align="center">Hi there, I'm Rohit Kumar 👋</h2>
 <p align="center">
-ECE Undergraduate • MERN Stack Developer
+ECE Undergraduate • Full-Stack (MERN) Developer
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-kumar-835346260">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rk18012003@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/yourusername">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26"/>
+</a>
 </p>
 
 ---
 
 ### About
-ECE undergraduate with a strong interest in full-stack web development.
-I focus on writing clean, maintainable code and building practical, real-world applications.
+I am an Electronics and Communication Engineering undergraduate with a strong interest in software development.  
+I focus on building reliable, scalable web applications and writing clean, maintainable code with clear architecture.
 
 ---
 
 ### Technical Skills
 <table>
 <tr>
+<td><strong>Programming</strong></td>
+<td>C++, C</td>
+</tr>
+<tr>
 <td><strong>Frontend</strong></td>
-<td>React, JavaScript, HTML, CSS, Tailwind</td>
+<td>HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS, Material UI, Bootstrap</td>
 </tr>
 <tr>
 <td><strong>Backend</strong></td>
-<td>Node.js, Express</td>
+<td>Node.js, Express.js, MongoDB</td>
 </tr>
 <tr>
-<td><strong>Database</strong></td>
-<td>MongoDB</td>
-</tr>
-<tr>
-<td><strong>Programming</strong></td>
-<td>C, C++</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git, GitHub, Postman</td>
+<td><strong>Other</strong></td>
+<td>Data Structures & Algorithms, REST APIs, Git, GitHub</td>
 </tr>
 </table>
 
 ---
 
-### Contact
-- 📧 **Email:** rk18012003@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/rohit-kumar-835346260
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=grey&style=flat"/>
+</p>
