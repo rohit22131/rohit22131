@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Rohit Kumar 👋
 
-<!--
-**rohit22131/rohit22131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE undergraduate and MERN stack developer.
+I focus on writing clean, maintainable code and building real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Programming:** C, C++
+- **Tools:** Git, GitHub, Postman
