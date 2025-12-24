@@ -1,4 +1,4 @@
-## Hi there, I'm Rohit Kumar
+## Hi there, I'm Rohit Kumar 👋
 
 ECE undergraduate and MERN stack developer with a strong interest in building reliable and scalable web applications.  
 
