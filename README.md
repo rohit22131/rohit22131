@@ -7,7 +7,6 @@ ECE undergraduate and MERN stack developer with a strong interest in building re
 ### 🔗 Connect
 - **Email:** rk18012003@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rohit-kumar-835346260  
-- **GitHub:** https://github.com/yourusername  
 
 ---
 
