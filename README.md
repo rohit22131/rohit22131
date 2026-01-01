@@ -1,4 +1,4 @@
-## Hi there, I'm Rohit Kumar 👋
+# Hi there, I'm Rohit Kumar 👋
 
 ### Glad to see you here!
 
